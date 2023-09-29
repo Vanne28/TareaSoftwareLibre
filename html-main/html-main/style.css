@@ -1,0 +1,47 @@
+body {
+    margin: auto;
+
+    padding: 50px;
+    font-family: 'Arial', sans-serif;
+    color: #33475b;
+
+}
+
+.nav {
+    text-align: left;
+    font-family: 'Arial', sans-serif;
+}
+
+.header {
+    width: 1024px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.section {
+    width: 1024px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #faadcd;
+    border-radius: 5px;
+    height: 500px;
+}
+
+.sectionVideo{
+    width: 1024px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #faadcd;
+    border-radius: 5px;
+    height: 740px;
+}
+
+.footer {
+    width: 1024px;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 5px;
+}
